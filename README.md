@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilsad&label=Views&color=blue&style=plastic" alt="dilsad" /> </p>
 
-<a href="[https://linkedin.com/in/shumbul](https://www.linkedin.com/in/dilsad-mohammed-604746172/)">
+<a href="https://www.linkedin.com/in/dilsad-mohammed-604746172">
   <kbd>
   <img align="centre" alt="dilsad's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
